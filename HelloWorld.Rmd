@@ -1,0 +1,12 @@
+---
+title: "HelloWorld"
+author: "Alice Cline"
+date: "July 31, 2025"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a Markdown file
